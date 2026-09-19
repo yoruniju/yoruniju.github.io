@@ -7,7 +7,6 @@ pin: true
 ---
 ## Characters
 ---
-## 魔法学校の生徒たち<br>
 
 
 
